@@ -31,20 +31,20 @@ Main challenges solved:
 
 Taken on a test copy: some photos are placeholders and personal details are blurred. Screens 5 and 9 aren't live yet.
 
-![The homepage on a desktop, with banners, categories and today's deals.](screenshots/01-home-desktop.png)
+![The homepage on a desktop, with banners, categories and today's deals.](01-home-desktop.png)
 
-![The homepage on a phone, with search, banners and deals.](screenshots/02-home-phone.png)
+![The homepage on a phone, with search, banners and deals.](02-home-phone.png)
 
-![A category page with filters beside a deals row and products.](screenshots/03-category-page.png)
+![A category page with filters beside a deals row and products.](03-category-page.png)
 
-![The full-screen product photo viewer with thumbnails.](screenshots/04-product-image-viewer.png)
+![The full-screen product photo viewer with thumbnails.](04-product-image-viewer.png)
 
-![Checkout, where the customer chooses to pay online or at pickup.](screenshots/05-checkout-payment-choice.png)
+![Checkout, where the customer chooses to pay online or at pickup.](05-checkout-payment-choice.png)
 
-![An admin order page showing customer, delivery, payment and status.](screenshots/06-admin-order-page.png)
+![An admin order page showing customer, delivery, payment and status.](06-admin-order-page.png)
 
-![A printable receipt with items, totals, a barcode and a QR code.](screenshots/07-printable-receipt.png)
+![A printable receipt with items, totals, a barcode and a QR code.](07-printable-receipt.png)
 
-![The admin product form with an AI-drafted description to review.](screenshots/08-admin-ai-product-writer.png)
+![The admin product form with an AI-drafted description to review.](08-admin-ai-product-writer.png)
 
-![The admin screen that links website products to point-of-sale products.](screenshots/09-admin-pos-link.png)
+![The admin screen that links website products to point-of-sale products.](09-admin-pos-link.png)
