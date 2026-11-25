@@ -31,7 +31,7 @@ Main challenges solved:
 
 Taken on a test copy: some photos are placeholders and personal details are blurred. Screens 5 and 9 aren't live yet.
 
-![The homepage on a desktop, with banners, categories and today's deals.](01-home-desktop.png)
+![The homepage on a desktop, with banners, categories and today's dealss.](01-home-desktop.png)
 
 ![The homepage on a phone, with search, banners and deals.](02-home-phone.png)
 
